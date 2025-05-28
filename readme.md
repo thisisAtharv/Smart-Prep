@@ -88,7 +88,7 @@ Components communicate via lightweight API calls and internal module imports, en
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/smart-prep.git
+   git clone https://github.com/YourUsername/Smart-Prep.git
    cd smart-prep
    ```
 
