@@ -116,5 +116,7 @@ Components communicate via lightweight API calls and internal module imports, en
 
 ---
 
+## License
 
+**This project is licensed under the MIT License.**
 
