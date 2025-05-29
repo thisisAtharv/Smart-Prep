@@ -6,13 +6,13 @@ Smart Prep is an interactive, centralized platform designed to streamline compet
 
 ## Features
 
-- **User‑Friendly Dashboard**: Intuitive, responsive web interface with secure login and personalized home view. citeturn0file1
-- **Categorized Study Resources**: Concise notes and PDFs organized by subject and topic for structured self‑study. citeturn0file1
-- **Blog Section**: Aspirants can read, create, and manage posts on preparation strategies, syllabus updates, and motivational stories. citeturn0file0
-- **MCQs & Quizzes**: Topic‑wise multiple‑choice questions and timed tests with instant feedback and performance summaries. citeturn0file1
-- **Daily Facts & Insights**: Bite‑sized data points covering history, geography, science, and current affairs to boost retention. citeturn0file0
-- **Real‑Time Updates**: Automated fetching of current affairs, exam notifications, and syllabus changes from trusted sources. citeturn0file0
-- **Progress Tracking**: Visual analytics of quiz scores, completed topics, and learning trends over time. citeturn0file0
+- **User‑Friendly Dashboard**: Intuitive, responsive web interface with secure login and personalized home view.
+- **Categorized Study Resources**: Concise notes and PDFs organized by subject and topic for structured self‑study.
+- **Blog Section**: Aspirants can read, create, and manage posts on preparation strategies, syllabus updates, and motivational stories.
+- **MCQs & Quizzes**: Topic‑wise multiple‑choice questions and timed tests with instant feedback and performance summaries.
+- **Daily Facts & Insights**: Bite‑sized data points covering history, geography, science, and current affairs to boost retention.
+- **Real‑Time Updates**: Automated fetching of current affairs, exam notifications, and syllabus changes from trusted sources.
+- **Progress Tracking**: Visual analytics of quiz scores, completed topics, and learning trends over time.
 
 ---
 
@@ -21,7 +21,7 @@ Smart Prep is an interactive, centralized platform designed to streamline compet
 - **Frontend & Backend**: Python 3, Streamlit
 - **Databases**:
   - MongoDB for unstructured content (blogs, current affairs).
-  - SQLite for structured data (user profiles, quiz records, progress logs). citeturn0file0
+  - SQLite for structured data (user profiles, quiz records, progress logs).
 - **Environment**:
   - VS Code (development)
   - Requirements managed via `requirements.txt`
@@ -60,7 +60,7 @@ Smart Prep follows a layered design:
 2. **Application Layer** (Python Logic) – Implements business rules: authentication, content retrieval, and quiz evaluation.
 3. **Data Layer** (MongoDB & SQLite) – Stores unstructured and structured data respectively.
 
-Components communicate via lightweight API calls and internal module imports, ensuring modularity and scalability. citeturn0file1
+Components communicate via lightweight API calls and internal module imports, ensuring modularity and scalability.
 
 ---
 
@@ -80,7 +80,7 @@ Components communicate via lightweight API calls and internal module imports, en
 - Deliver up‑to‑date current affairs and examination notifications.  
 - Facilitate active learning through quizzes, insights, and blogs.  
 - Provide personalized progress tracking and recommendations.  
-- Scale to support additional competitive exams (MPSC, GATE, banking). citeturn0file0
+- Scale to support additional competitive exams (MPSC, GATE, banking). 
 
 ---
 
